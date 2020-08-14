@@ -555,7 +555,7 @@ public class MainActivity extends AppCompatActivity {
         // disconnect
         bluetoothGatt.disconnect();
         close();
-        // reScan
+        // update to not scanning
         updateUIConnectionStatus(NOT_SCANNING);
     }
 
