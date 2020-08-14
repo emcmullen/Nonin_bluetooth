@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bluetooth Take 2</string>
+    <string name="connectionStatus">Scanning...</string>
+    <string name="device_name">Device Name:</string>
+</resources>
